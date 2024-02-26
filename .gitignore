@@ -1,5 +1,4 @@
-HELP.md
-.gradle
+kopring-multi-module-template/.gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
