@@ -1,5 +1,6 @@
-package com.currenjin.kafka
+package com.currenjin.kafka.kafkatemplate
 
+import com.currenjin.kafka.support.KafkaTest
 import org.apache.kafka.clients.producer.ProducerRecord
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
