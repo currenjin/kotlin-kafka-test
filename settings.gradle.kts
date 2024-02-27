@@ -2,6 +2,7 @@ rootProject.name = "kotlin-kafka-test"
 
 include(
     "kafka-producer",
+    "kafka-consumer",
 )
 
 pluginManagement {
